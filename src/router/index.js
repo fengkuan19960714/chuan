@@ -12,4 +12,5 @@ export default new Router({
     //     component: HelloWorld
     //   }
     // ]
+    linkActiveClass: "mui-active"
 })
