@@ -9,6 +9,9 @@ Vue.component(Header.name, Header)
 //引入mui
 import './css/mui/css/mui.min.css'
 
+//引入mui-icons-extra
+import './css/mui/css/icons-extra.css'
+
 import router from './router'
 
 
